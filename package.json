@@ -1,6 +1,6 @@
 {
   "name": "kalpa-simple-git",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kalpa module for git",
   "main": "lib/index.js",
   "scripts": {
@@ -12,21 +12,16 @@
   "files": [
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "patilvinay/kalpa-simple-git"
-  },
+  "repository": "patilvinay/kalpa-simple-git",
   "keywords": [
     "kalpa",
     "kalpa-module",
     "automation",
     "tool"
   ],
-  "repository": "patilvinay/kalpa-simple-git",
   "author": "kalpa-simple-git",
   "license": "Apache-2.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@semantic-release/github": "^7.0.5",
     "babel": "^6.23.0",
