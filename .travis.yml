@@ -9,7 +9,7 @@ jobs:
       node_js:
         - node
         - "lts/*"
-    - before_install: npm install
+      before_install: npm install
     - stage: npm:publish
       language: node_js
       node_js:
