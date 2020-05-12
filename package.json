@@ -10,18 +10,19 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "files": [
-    "lib",
+    "lib"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/patilvinay/kalpa-simple-git"
+    "url": "patilvinay/kalpa-simple-git"
   },
   "keywords": [
     "kalpa",
-    "kalpa-module"
+    "kalpa-module",
     "automation",
     "tool"
   ],
+  "repository": "patilvinay/kalpa-simple-git",
   "author": "kalpa-simple-git",
   "license": "Apache-2.0",
   "dependencies": {
@@ -60,5 +61,5 @@
       "npm run lint:fix",
       "git add"
     ]
-  },
+  }
 }
